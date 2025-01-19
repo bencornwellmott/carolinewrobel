@@ -1,11 +1,11 @@
 # Site settings
 title: Caroline Wrobel Consulting
 description: Caroline Wrobel Consulting is a planning and environmental consultant based on Vancouver Island, specializing in Indigenous engagement and rights.
-cover: assets/images/radhakrishna.jpg
+cover: assets/images/carolinewrobel_profile_1.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://carolinewrobel.ca" # the base hostname & protocol for your site
+url: "https://bencornwellmott.github.io/carolinewrobel/" # the base hostname & protocol for your site
 
 pagination:
 
@@ -52,7 +52,7 @@ repo: carolinewrobel #github repository
 branch: master #branch
 relative_source: ../carolinewrobel/ #source directory
 destination: ../hanuman-pages/ #destination directory
-production_url:  https://carolinewrobel.ca/
+production_url:  https://bencornwellmott.github.io/carolinewrobel/
 source_url:  https://github.com/bencornwellmott/carolinewrobel/ #source repository url
 
 exclude:
