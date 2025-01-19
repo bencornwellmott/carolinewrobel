@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<amp-img width="600" layout="responsive" src="assets/images/background_sunset_1.png"></amp-img>
+<amp-img height="720" layout="responsive" src="assets/images/background_sunset_1.png"></amp-img>
 
 I am an Environmental and Indigenous Community Planner and Project Manager. I have worked with a range of clients across the country (resource developers, various levels of government, and associated agencies) but my main focus has been in working with Indigenous communities in the areas of: 
 
