@@ -1,7 +1,7 @@
 # Site settings
 title: Caroline Wrobel Consulting
 description: Caroline Wrobel Consulting is a planning and environmental consultant based on Vancouver Island, specializing in Indigenous engagement and rights.
-cover: assets/images/carolinewrobel_profile_1.jpg
+cover: assets/images/background_sunset_1.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/carolinewrobel/" # the subpath of your site, e.g. /blog/ or / for root
