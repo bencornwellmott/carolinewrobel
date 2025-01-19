@@ -20,7 +20,7 @@ pagination:
 # Social
 facebook: facebook
 twitter: twitter
-github:  github
+linkedin: cawrobel
 
 #Additional Pages
 about: about
@@ -53,7 +53,7 @@ branch: master #branch
 relative_source: ../carolinewrobel/ #source directory
 destination: ../hanuman-pages/ #destination directory
 production_url:  https://carolinewrobel.ca/
-source_url:  https://github.com/bencornwellmott/carolinewrobel #source repository url
+source_url:  https://github.com/bencornwellmott/carolinewrobel/ #source repository url
 
 exclude:
   - README.md
